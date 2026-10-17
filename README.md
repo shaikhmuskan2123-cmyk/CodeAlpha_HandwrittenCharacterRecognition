@@ -115,6 +115,21 @@ assets/style.css          Application styling
 data/ models/ reports/    Local generated artifacts
 ```
 
+## 📸 Project Screenshots
+
+### 1. Home Dashboard
+![Overview]
+<img width="1917" height="911" alt="overview 1" src="https://github.com/user-attachments/assets/6654d631-bad1-4a0f-bfe3-81dc693c90fc" />
+<img width="1908" height="911" alt="overview 2" src="https://github.com/user-attachments/assets/6d7a70f4-9f84-4633-b857-6ac09c5ff606" />
+
+### 2.Draw & Predict
+![Prediction]
+<img width="1915" height="908" alt="Draw 1" src="https://github.com/user-attachments/assets/4aa44b8d-2d23-4134-ba99-092e7190f457" />
+<img width="1915" height="908" alt="Draw 1" src="https://github.com/user-attachments/assets/b56a642d-13d6-44f3-9d88-f1efb51f4137" />
+
+
+
+
 ## GitHub
 
 From this project directory, create the repository on GitHub as `CodeAlpha_HandwrittenCharacterRecognition`, then:

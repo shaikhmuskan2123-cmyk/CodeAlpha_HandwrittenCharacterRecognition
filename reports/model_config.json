@@ -1,0 +1,11 @@
+{
+  "architecture": "Conv2D-BatchNorm-ReLU-MaxPool x 2, Conv2D-BatchNorm-ReLU, GlobalAveragePooling, Dense",
+  "input_shape": [28, 28, 1],
+  "class_count": 26,
+  "seed": 42,
+  "batch_size": 128,
+  "epochs_requested": 30,
+  "epochs_completed": 26,
+  "augmentation": ["random rotation", "random translation"],
+  "checkpoint_selection": "lowest validation loss"
+}

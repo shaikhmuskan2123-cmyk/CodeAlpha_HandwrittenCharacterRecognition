@@ -1,0 +1,14 @@
+# Python 3.10; CPU-compatible TensorFlow wheels are available for Windows x64.
+tensorflow==2.15.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+opencv-python-headless==4.10.0.84
+Pillow==10.4.0
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+streamlit==1.41.1
+streamlit-drawable-canvas==0.9.3
+tqdm==4.67.1
+pytest==8.3.4

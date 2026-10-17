@@ -1,0 +1,21 @@
+# Python environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Downloaded data and trained weights are generated locally
+data/raw/*
+!data/raw/.gitkeep
+models/*
+!models/.gitkeep
+reports/*.npz
+reports/*.keras
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

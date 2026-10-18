@@ -1,4 +1,4 @@
-# GlyphSense AI: Handwritten Character Intelligence
+<img width="1912" height="907" alt="Upload 1" src="https://github.com/user-attachments/assets/c9203efb-bbd2-4f55-bced-47858036528e" /># GlyphSense AI: Handwritten Character Intelligence
 
 CodeAlpha Machine Learning Internship · Task 3
 
@@ -125,11 +125,34 @@ data/ models/ reports/    Local generated artifacts
 ### 2.Draw & Predict
 ![Prediction]
 <img width="1915" height="908" alt="Draw 1" src="https://github.com/user-attachments/assets/4aa44b8d-2d23-4134-ba99-092e7190f457" />
-<img width="1915" height="908" alt="Draw 1" src="https://github.com/user-attachments/assets/b56a642d-13d6-44f3-9d88-f1efb51f4137" />
+<img width="1913" height="901" alt="Draw 2" src="https://github.com/user-attachments/assets/a68388ce-28fc-43a9-9f16-7b867b1847bc" />
 
+### 3. Image Upload Prediction
+![Upload Prediction]
+<img width="1912" height="907" alt="Upload 1" src="https://github.com/user-attachments/assets/256d36c5-c9b8-4609-b330-219aa80ee3fa" />
+<img width="1917" height="915" alt="Upload 2" src="https://github.com/user-attachments/assets/06a044b5-ef05-43af-be07-f511ad69d8f0" />
 
+### 4.Batch recognition
+![Batch recognition]
+<img width="1912" height="912" alt="Batch" src="https://github.com/user-attachments/assets/e199e86e-9f48-4503-9105-d49fccfd4d99" />
 
+### 4. Model Analytics
+![Model Analytics]
+<img width="1912" height="905" alt="Model analytics 1" src="https://github.com/user-attachments/assets/0d3214e0-72c5-49d9-863d-71cdc3ba28be" />
+<img width="1896" height="911" alt="Model analytics 2" src="https://github.com/user-attachments/assets/0253c516-270b-48c4-b20b-88c9ca9661b9" />
+<img width="1912" height="928" alt="Model analytics 3" src="https://github.com/user-attachments/assets/a4cc414d-bed8-4213-90ae-cd100bab0d41" />
+<img width="1912" height="911" alt="Model analytics 4" src="https://github.com/user-attachments/assets/79008c4b-bde0-4354-8625-0a8f460ee170" />
 
+### 5. Prediction History
+![Prediction History]
+<img width="1917" height="897" alt="Prediction history 1" src="https://github.com/user-attachments/assets/88ee3670-9942-4d6b-92a6-ebee3033f9be" />
+<img width="1912" height="900" alt="Prediction history 2" src="https://github.com/user-attachments/assets/83be6e77-9b09-480e-a6eb-1bbbd5447dfb" />
+<img width="1895" height="917" alt="Prediction history 3" src="https://github.com/user-attachments/assets/c9ffc279-d69d-4ea0-8795-e2f99ae46c27" />
+
+### 6.About The Project
+![About GlyphSense AI]
+<img width="1916" height="915" alt="About" src="https://github.com/user-attachments/assets/a2472840-6ed6-4bbe-a9ed-f9d6b72f473b" />
+ 
 ## GitHub
 
 From this project directory, create the repository on GitHub as `CodeAlpha_HandwrittenCharacterRecognition`, then:
